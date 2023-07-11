@@ -8,10 +8,7 @@ import interfaces.Renderizable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class Puesto implements Renderizable {
 
     private String nombre;

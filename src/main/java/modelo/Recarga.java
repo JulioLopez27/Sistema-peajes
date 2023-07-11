@@ -7,10 +7,6 @@ package modelo;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
 public class Recarga {
 
     private double monto;
@@ -36,10 +32,17 @@ public class Recarga {
         return fecha;
     }
 
+    //---------------------------------------------------------------------------------------
+    //TODO: mover a la capa de presentacion
     public String getFechaFormateada() {
         DateTimeFormatter formato = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
         return this.getFecha().format(formato);
     }
+
+    public String getEstado() {
+        return (this.aprobador != null) ? "Aprobada" : "Pendiente";
+    }
+    //------------------------------------------------------------------------------------------------
 
     public UsuarioAdministrador getAprobador() {
         return aprobador;
@@ -51,10 +54,6 @@ public class Recarga {
 
     public UsuarioPropietario getUsuarioPropietario() {
         return this.cuenta.getUsuarioPropietario();
-    }
-
-    public String getEstado() {
-        return (this.aprobador != null) ? "Aprobada" : "Pendiente";
     }
 
 }

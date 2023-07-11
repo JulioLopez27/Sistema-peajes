@@ -6,10 +6,7 @@ package modelo;
 
 import interfaces.Renderizable;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class Frecuente implements Bonificable, Renderizable {
 
     public Frecuente() {

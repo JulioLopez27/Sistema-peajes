@@ -4,12 +4,8 @@
  */
 package modelo;
 
-import exceptions.LoginException;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class UsuarioAdministrador extends Usuario {
 
     private boolean logueado;

@@ -4,10 +4,7 @@
  */
 package modelo;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class Tarifa {
 
     private double monto;

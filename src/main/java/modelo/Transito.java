@@ -7,10 +7,7 @@ package modelo;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class Transito {
 
     private Vehiculo vehiculo;
@@ -51,7 +48,7 @@ public class Transito {
     public void setFecha(LocalDateTime fecha) {
         this.fecha = fecha;
     }
-
+//TODO:funcion duplicada
     public String getFechaFormateada() {
         DateTimeFormatter formato = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
         return this.getFecha().format(formato);

@@ -10,10 +10,7 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class Vehiculo {
 
     private UsuarioPropietario usuarioPropietario;

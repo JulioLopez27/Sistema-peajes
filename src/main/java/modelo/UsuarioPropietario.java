@@ -7,14 +7,10 @@ package modelo;
 import exceptions.PeajesException;
 import observer.Observable;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 import modelo.fachada.Fachada;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class UsuarioPropietario extends Usuario {
 
     private double saldoMinimoAlerta;

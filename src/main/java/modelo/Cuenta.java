@@ -10,10 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import modelo.fachada.Fachada;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class Cuenta {
 
     private double saldo;

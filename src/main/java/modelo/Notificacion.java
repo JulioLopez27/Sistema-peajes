@@ -7,10 +7,7 @@ package modelo;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class Notificacion {
 
     private LocalDateTime fecha;
