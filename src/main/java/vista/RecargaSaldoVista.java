@@ -4,10 +4,7 @@
  */
 package vista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public interface RecargaSaldoVista {
 
     public void mostrarMensaje(String mensaje);

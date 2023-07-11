@@ -17,10 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 import modelo.Notificacion;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class ServicioUsuarios {
 
     private List<UsuarioPropietario> usuariosPropietario;

@@ -11,10 +11,7 @@ import modelo.UsuarioAdministrador;
 import modelo.fachada.Fachada;
 import vista.EmularAprobacionRecargaVista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class EmularAprobacionRecargaControlador implements Observer {
 
     private EmularAprobacionRecargaVista vista;

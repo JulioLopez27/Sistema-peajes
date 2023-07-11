@@ -7,10 +7,7 @@ package observer;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class Observable {
 
     private List<Observer> observadores;

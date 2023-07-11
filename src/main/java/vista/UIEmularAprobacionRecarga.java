@@ -16,10 +16,7 @@ import javax.swing.JList;
 import javax.swing.JOptionPane;
 import javax.swing.ListCellRenderer;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class UIEmularAprobacionRecarga extends javax.swing.JDialog implements EmularAprobacionRecargaVista {
 
     private EmularAprobacionRecargaControlador controlador;

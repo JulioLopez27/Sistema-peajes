@@ -7,7 +7,6 @@ package vista.controladores;
 import exceptions.PeajesException;
 import observer.Observable;
 import observer.Observer;
-import java.util.List;
 import modelo.Bonificable;
 import modelo.Bonificacion;
 import modelo.Puesto;
@@ -15,10 +14,7 @@ import modelo.UsuarioPropietario;
 import modelo.fachada.Fachada;
 import vista.AsignarBonificacionesVista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class AsignarBonificacionesControlador implements Observer {
 
     private Fachada fachada = Fachada.getInstancia();

@@ -10,10 +10,7 @@ import modelo.UsuarioPropietario;
 import modelo.fachada.Fachada;
 import vista.TableroControlVista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class TableroControlControlador implements Observer {
 
     private Fachada fachada = Fachada.getInstancia();

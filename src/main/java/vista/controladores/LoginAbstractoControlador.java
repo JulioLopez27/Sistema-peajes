@@ -5,14 +5,10 @@
 package vista.controladores;
 
 import exceptions.LoginException;
-import javax.swing.JOptionPane;
 import modelo.Usuario;
 import vista.LoginAbstractoVista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public abstract class LoginAbstractoControlador {
 
     protected LoginAbstractoVista vista;

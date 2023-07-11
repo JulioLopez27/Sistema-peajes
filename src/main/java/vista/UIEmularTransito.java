@@ -17,10 +17,7 @@ import javax.swing.JOptionPane;
 import javax.swing.ListCellRenderer;
 import vista.controladores.EmularTransitoControlador;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class UIEmularTransito extends javax.swing.JDialog implements EmularTransitoVista {
 
     private EmularTransitoControlador controlador;

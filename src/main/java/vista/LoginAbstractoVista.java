@@ -6,10 +6,7 @@ package vista;
 
 import modelo.Usuario;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public interface LoginAbstractoVista {
 
     public void mostrarTitulo(String titulo);

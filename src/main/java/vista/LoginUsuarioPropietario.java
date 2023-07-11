@@ -9,11 +9,7 @@ import modelo.UsuarioPropietario;
 import java.awt.Frame;
 import vista.controladores.LoginUsuarioPropietarioControlador;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- * 
- */
+
 public class LoginUsuarioPropietario extends LoginAbstracto {
 
     public LoginUsuarioPropietario(Frame parent, boolean modal) {

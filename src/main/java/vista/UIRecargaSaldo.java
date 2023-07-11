@@ -8,10 +8,7 @@ import modelo.UsuarioPropietario;
 import javax.swing.JOptionPane;
 import vista.controladores.RecargarSaldoControlador;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class UIRecargaSaldo extends javax.swing.JDialog implements RecargaSaldoVista {
 
     private RecargarSaldoControlador controlador;

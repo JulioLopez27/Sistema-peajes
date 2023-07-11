@@ -4,10 +4,6 @@
  */
 package vista.celdas;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
 public class CeldaRecargaSaldo extends javax.swing.JPanel {
 
     /**

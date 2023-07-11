@@ -9,10 +9,7 @@ import modelo.Usuario;
 import modelo.fachada.Fachada;
 import vista.LoginAbstractoVista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class LoginUsuarioPropietarioControlador extends LoginAbstractoControlador {
 
     public LoginUsuarioPropietarioControlador(LoginAbstractoVista vista, String titulo) {

@@ -13,10 +13,7 @@ import modelo.UsuarioPropietario;
 import modelo.fachada.Fachada;
 import vista.RecargaSaldoVista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class RecargarSaldoControlador implements Observer {
 
     private UsuarioPropietario usuario;

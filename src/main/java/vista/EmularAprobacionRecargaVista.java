@@ -7,10 +7,7 @@ package vista;
 import java.util.List;
 import modelo.Recarga;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public interface EmularAprobacionRecargaVista {
 
     public void mostrarListaRecargas(List<Recarga> recargasPendientes);

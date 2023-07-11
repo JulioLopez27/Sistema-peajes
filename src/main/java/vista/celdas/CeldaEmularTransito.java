@@ -4,10 +4,7 @@
  */
 package vista.celdas;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class CeldaEmularTransito extends javax.swing.JPanel {
 
     /**

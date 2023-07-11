@@ -20,10 +20,7 @@ import modelo.UsuarioAdministrador;
 import modelo.Vehiculo;
 import java.util.List;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class Fachada extends Observable {
 
     private static Fachada instancia = null;

@@ -9,10 +9,7 @@ import modelo.Vehiculo;
 import modelo.fachada.Fachada;
 import vista.EmularTransitoVista;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public class EmularTransitoControlador {
 
     private EmularTransitoVista vista;

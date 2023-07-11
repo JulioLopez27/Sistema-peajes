@@ -25,17 +25,12 @@ import modelo.Notificacion;
 import vista.celdas.CeldaNotificacion;
 import vista.controladores.TableroControlControlador;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class UITableroDeControl extends javax.swing.JDialog implements TableroControlVista {
 
     private TableroControlControlador controlador;
 
-    /**
-     * Creates new form TablerDeControl
-     */
+  
     public UITableroDeControl(UsuarioPropietario usuarioPropietario) {
         initComponents();
         this.controlador = new TableroControlControlador(this, usuarioPropietario);

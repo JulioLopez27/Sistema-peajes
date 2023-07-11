@@ -4,10 +4,7 @@
  */
 package observer;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public interface Observer {
 
     public void notificar(Observable origen, Object evento);

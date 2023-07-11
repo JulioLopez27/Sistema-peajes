@@ -9,10 +9,7 @@ import modelo.Bonificable;
 import modelo.Bonificacion;
 import modelo.Puesto;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian 
- */
+
 public interface AsignarBonificacionesVista {
 
     public void cargarBonificaciones(List<Bonificable> tiposBonificacion);

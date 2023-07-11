@@ -7,10 +7,7 @@ package vista;
 import javax.swing.JOptionPane;
 import vista.controladores.LoginAbstractoControlador;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public abstract class LoginAbstracto extends javax.swing.JDialog implements LoginAbstractoVista {
 
     private LoginAbstractoControlador controlador;

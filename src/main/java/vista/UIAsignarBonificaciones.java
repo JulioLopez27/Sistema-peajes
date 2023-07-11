@@ -4,15 +4,11 @@
  */
 package vista;
 
-import exceptions.PeajesException;
+
 import interfaces.ComboBasicoRenderer;
-import observer.Observable;
-import observer.Observer;
-import modelo.fachada.Fachada;
 import modelo.Bonificable;
 import modelo.Bonificacion;
 import modelo.Puesto;
-import modelo.UsuarioPropietario;
 import vista.celdas.CeldaAsignarBonificacion;
 import java.awt.Component;
 import java.awt.Frame;
@@ -22,10 +18,7 @@ import javax.swing.JOptionPane;
 import javax.swing.ListCellRenderer;
 import vista.controladores.AsignarBonificacionesControlador;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class UIAsignarBonificaciones extends javax.swing.JDialog implements AsignarBonificacionesVista {
 
     private AsignarBonificacionesControlador controlador;

@@ -6,10 +6,7 @@ package vista;
 
 import modelo.UsuarioAdministrador;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class UIMenuAdministrador extends javax.swing.JDialog {
 
     private UsuarioAdministrador usuarioAdministrador;

@@ -12,10 +12,7 @@ import modelo.Transito;
 import modelo.UsuarioPropietario;
 import modelo.Vehiculo;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public interface TableroControlVista {
 
     public void inicializarDatos(UsuarioPropietario usuarioPropietario);

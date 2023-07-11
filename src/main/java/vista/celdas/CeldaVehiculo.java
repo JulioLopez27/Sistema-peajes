@@ -4,10 +4,7 @@
  */
 package vista.celdas;
 
-/**
- *
- * @author Bazzi Gonzalo / Cesar Julio / Paulos Sebastian
- */
+
 public class CeldaVehiculo extends javax.swing.JPanel {
 
     /**
