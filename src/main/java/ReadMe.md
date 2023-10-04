@@ -1,3 +1,4 @@
+<Body>
 <h1> Sistema de peajes </h1>
 
 <p> Proyecto obligatorio de finalización de la materia Diseño y Desarrollo de aplicaciones.<br>
@@ -36,7 +37,7 @@
 </ul>
 
 <h2> Ejecución del proyecto:</h2>
-    <p align="left">Para poder testear el proyecto, deberá descargar los archivos del repositorio,<br>
+    <p color="red">Para poder testear el proyecto, deberá descargar los archivos del repositorio,<br>
     tener instalado en el equipo Apache NetBeans IDE 17.<br>
     Ya con los archivos descargador y el IDE ejecutado, abra el proyecto dentro del IDE. <br>
     Seleccione la raíz del proyecto, clic derecho sobre lo seleccionado y a continuación puede ejecutarlo apretando la opción “RUN”  <br>
@@ -46,3 +47,4 @@
 <img src="./img/runProject.PNG" >
 </div>
 
+</Body>
