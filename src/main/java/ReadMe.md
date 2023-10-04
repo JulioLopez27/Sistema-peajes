@@ -1,4 +1,4 @@
-<Body>
+
 <h1> Sistema de peajes </h1>
 
 <p> Proyecto obligatorio de finalización de la materia Diseño y Desarrollo de aplicaciones.<br>
@@ -47,4 +47,3 @@
 <img src="./img/runProject.PNG" >
 </div>
 
-</Body>
