@@ -23,7 +23,7 @@
     •Excepciones
     •MVC (modelo-vista-controlador)
 
-<h2 Stack usado:</h2>
+<h2> Stack usado:</h2>
     •Java
     •Swing (interfaz gráfica)
 
