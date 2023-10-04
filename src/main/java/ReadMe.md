@@ -37,6 +37,6 @@
     •Para poder testear el proyecto, deberá descargar los archivos del repositorio, tener instalado en el equipo Apache NetBeans IDE 17.
     •Ya con los archivos descargador y el IDE ejecutado, abra el proyecto dentro del IDE. 
     •Selecciona la raíz del proyecto, clic derecho sobre lo seleccionado y a continuación puede ejecutarlo apretando la opción “RUN”  como se puede apreciar a continuación.
-    ![run project](Sistema-peajes/src/main/java/img/runProject.PNG)
+  <img src="./img/runProject.PNG">
 
 
