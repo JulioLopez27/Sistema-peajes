@@ -4,24 +4,24 @@
  Este proyecto se realizó en lenguaje Java (JDK 19) con utilización de Swing para el interfaz de usuario y se aplica varios patrones de diseño.
 </p>
 
-## Descripción del proyecto:
-### •Construir un prototipo para gestionar los distintos peajes que se carguen en el sistema.
-### •Panel de control para usuarios con rol Administrador y otro panel para usuarios con rol propietarios de vehículos.
-### •Existirá cálculos de bonificaciones.
-### •Se realizara una interfaz gráfica para escritorio para los distintos usuarios.
+<h2> Descripción del proyecto:</h2>
+<h3> •Construir un prototipo para gestionar los distintos peajes que se carguen en el sistema.
+<h3> •Panel de control para usuarios con rol Administrador y otro panel para usuarios con rol propietarios de vehículos.
+<h3> •Existirá cálculos de bonificaciones.
+<h3> •Se realizara una interfaz gráfica para escritorio para los distintos usuarios.
 
 
 <h2> Patrones utilizados:</h2>
 <ul>
-    <li>•Fachada</li>
-    <li>•División Lógica</li>
-    <li>•Experto</li>
-    <li>•Herencia</li>
-    <li>•Polimorfismo</li>
-    <li>•Interfaces</li>
-    <li>•Observer</li>
-    <li>•Excepciones</li>
-    <li>•MVC (modelo-vista-controlador)</li>
+    <li>Fachada</li>
+    <li>División Lógica</li>
+    <li>Experto</li>
+    <li>Herencia</li>
+    <li>Polimorfismo</li>
+    <li>Interfaces</li>
+    <li>Observer</li>
+    <li>Excepciones</li>
+    <li>MVC (modelo-vista-controlador)</li>
 </ul>
 <h2>Stack usado:</h2>
 <ul>
@@ -31,13 +31,16 @@
 
 
 <h2>Funcionalidades:</h2>
-    •Login
-    •	
+    <ul>
+        <li>Login</li>
+</ul>
 
 <h2> Ejecución del proyecto:</h2>
-    Para poder testear el proyecto, deberá descargar los archivos del repositorio, tener instalado en el equipo Apache NetBeans IDE 17.
-    Ya con los archivos descargador y el IDE ejecutado, abra el proyecto dentro del IDE. 
-    Seleccione la raíz del proyecto, clic derecho sobre lo seleccionado y a continuación puede ejecutarlo apretando la opción “RUN”  como se puede apreciar a continuación.
+    <p>Para poder testear el proyecto, deberá descargar los archivos del repositorio,<br>
+    tener instalado en el equipo Apache NetBeans IDE 17.<br>
+    Ya con los archivos descargador y el IDE ejecutado, abra el proyecto dentro del IDE. <br>
+    Seleccione la raíz del proyecto, clic derecho sobre lo seleccionado y a continuación puede ejecutarlo apretando la opción “RUN”  <br>
+    como se puede apreciar a continuación.
 
 <div id="run" align="center">
 <img src="./img/runProject.PNG" >
