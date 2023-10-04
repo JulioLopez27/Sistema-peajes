@@ -36,7 +36,7 @@
 </ul>
 
 <h2> Ejecución del proyecto:</h2>
-    <p>Para poder testear el proyecto, deberá descargar los archivos del repositorio,<br>
+    <p align="left">Para poder testear el proyecto, deberá descargar los archivos del repositorio,<br>
     tener instalado en el equipo Apache NetBeans IDE 17.<br>
     Ya con los archivos descargador y el IDE ejecutado, abra el proyecto dentro del IDE. <br>
     Seleccione la raíz del proyecto, clic derecho sobre lo seleccionado y a continuación puede ejecutarlo apretando la opción “RUN”  <br>
