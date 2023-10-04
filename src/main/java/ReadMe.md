@@ -11,17 +11,18 @@
 ### •Se realizara una interfaz gráfica para escritorio para los distintos usuarios.
 
 
-## Patrones utilizados
-    •Fachada
-    •División Lógica
-    •Experto
-    •Herencia
-    •Polimorfismo
-    •Interfaces
-    •Observer
-    •Excepciones
-    •MVC (modelo-vista-controlador)
-
+<h2> Patrones utilizados:</h2>
+<ul>
+    <li>•Fachada</li>
+    <li>•División Lógica</li>
+    <li>•Experto</li>
+    <li>•Herencia</li>
+    <li>•Polimorfismo</li>
+    <li>•Interfaces</li>
+    <li>•Observer</li>
+    <li>•Excepciones</li>
+    <li>•MVC (modelo-vista-controlador)</li>
+</ul>
 <h2>Stack usado:</h2>
 <ul>
  <li>Java</li>
