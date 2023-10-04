@@ -23,8 +23,10 @@
     •MVC (modelo-vista-controlador)
 
 <h2>Stack usado:</h2>
-    •Java
-    •Swing (interfaz gráfica)
+<ul>
+ <li>Java</li>
+ <li>Swing (interfaz gráfica)</li>
+</ul>
 
 
 <h2>Funcionalidades:</h2>
