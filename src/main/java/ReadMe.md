@@ -28,7 +28,7 @@
     •Swing (interfaz gráfica)
 
 
-Funcionalidades:
+<h2>Funcionalidades:</h2>
     •Login
     •	
 
