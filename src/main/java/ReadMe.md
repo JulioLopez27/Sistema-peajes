@@ -1,6 +1,6 @@
 <h1> Sistema de peajes </h1>
 
-<p> Proyecto obligatorio de finalización de la materia Diseño y Desarrollo de aplicaciones.
+<p> Proyecto obligatorio de finalización de la materia Diseño y Desarrollo de aplicaciones.<br>
  Este proyecto se realizó en lenguaje Java (JDK 19) con utilización de Swing para el interfaz de usuario y se aplica varios patrones de diseño.
 </p>
 
