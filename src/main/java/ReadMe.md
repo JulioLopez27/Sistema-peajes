@@ -6,11 +6,12 @@
 </p>
 
 <h2> Descripción del proyecto</h2>
-<h3> •Construir un prototipo para gestionar los distintos peajes que se carguen en el sistema.
-<h3> •Panel de control para usuarios con rol Administrador y otro panel para usuarios con rol propietarios de vehículos.
-<h3> •Existirá cálculos de bonificaciones.
-<h3> •Se realizara una interfaz gráfica para escritorio para los distintos usuarios.
-
+    <p>
+    •Construir un prototipo para gestionar los distintos peajes que se carguen en el sistema.<br>
+    •Panel de control para usuarios con rol Administrador y otro panel para usuarios con rol propietarios de vehículos.<br>
+    •Existirá cálculos de bonificaciones.<br>
+    •Se realizara una interfaz gráfica para escritorio para los distintos usuarios.<br>
+    </p>
 
 <h2> Patrones utilizados</h2>
     <ul>
