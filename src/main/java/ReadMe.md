@@ -32,7 +32,7 @@
 
 
 <h2>Funcionalidades:</h2>
-    
+    <ul>
         <ul>Login
             <li>Propietarios</li>
             <li>Administrador</li>
@@ -42,7 +42,7 @@
             <li>Borrar notificaciones del panel</li>
             <li>Salir</li>
         </ul>
-        
+       </ul 
 
 
 <h2> Ejecución del proyecto:</h2>
