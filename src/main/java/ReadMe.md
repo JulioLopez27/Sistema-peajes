@@ -32,7 +32,7 @@
 
 
 <h2>Funcionalidades</h2>
-    <ul>
+    
         <li>Login</li>    
         <ul>
             <h3>Funcionalidades para propietarios</h3>
@@ -44,7 +44,7 @@
             <li>Asignar Bonificaciones</li>
             <li>Salir</li>
         </ul>
-    </ul>
+    
 
 
 
