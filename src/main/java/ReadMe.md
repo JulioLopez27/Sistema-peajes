@@ -33,11 +33,8 @@
 
 <h2>Funcionalidades:</h2>
     <ul>
-        <ul>Login
-            <li>Propietarios</li>
-            <li>Administrador</li>
-        </ul>
-        <ul>Propietarios
+        <li>Login</li>    
+        <ul>Funcionalidades para propietarios
             <li>Solicitar recarga de saldo</li>
             <li>Borrar notificaciones del panel</li>
             <li>Salir</li>
