@@ -39,9 +39,7 @@
             <li>Solicitar recarga de saldo</li>
             <li>Borrar notificaciones del panel</li>
             <li>Salir</li>
-        </ul>   
         
-        <ul>
             <h3>Funcionalidades para administradores</h3>
             <li>Emular transito</li>
             <li>Aprobar recarga</li>
