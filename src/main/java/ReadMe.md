@@ -32,7 +32,7 @@
 
 
 <h2>Funcionalidades:</h2>
-    <ul>
+    
         <ul>Login
             <li>Propietarios</li>
             <li>Administrador</li>
@@ -43,13 +43,7 @@
             <li>Salir</li>
         </ul>
         
-        <ul>Administrador
-            <li>Emular transito</li>
-            <li>Aprobar recarga</li>
-            <li>Asignar Bonificaciones</li>
-            <li>Salir</li>
-        </ul>
-</ul>
+
 
 <h2> Ejecución del proyecto:</h2>
     <p>Para poder testear el proyecto, deberá descargar los archivos del repositorio,<br>
