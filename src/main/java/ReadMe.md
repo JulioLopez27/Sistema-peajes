@@ -46,8 +46,7 @@
             <li>Asignar Bonificaciones</li>
             <li>Salir</li>
         </ul>
-      
-    </ul>
+       </ul 
 
 
 
