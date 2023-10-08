@@ -33,7 +33,10 @@
 
 <h2>Funcionalidades:</h2>
     <ul>
-        <li>Login</li>
+        <ul>Login
+        <li>Propietarios</li>
+        <li>Administrador</li>
+        </ul>
 </ul>
 
 <h2> Ejecución del proyecto:</h2>
