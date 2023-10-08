@@ -38,8 +38,17 @@
             <li>Solicitar recarga de saldo</li>
             <li>Borrar notificaciones del panel</li>
             <li>Salir</li>
+        </ul>   
+        
+        <ul>Funcionalidades para administradores
+            <li>Emular transito</li>
+            <li>Aprobar recarga</li>
+            <li>Asignar Bonificaciones</li>
+            <li>Salir</li>
         </ul>
-       </ul 
+      
+     </ul>
+
 
 
 <h2> Ejecución del proyecto:</h2>
