@@ -34,12 +34,8 @@
 <h2>Funcionalidades</h2>
     <ul>
         <li>Login</li>    
-
-            <h3>Funcionalidades para propietarios</h3>
             <li>Solicitar recarga de saldo</li>
             <li>Borrar notificaciones del panel</li>
-
-            </br>
             <li>Emular transito</li>
             <li>Aprobar recarga</li>
             <li>Asignar Bonificaciones</li>
