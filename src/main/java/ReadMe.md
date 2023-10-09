@@ -37,9 +37,8 @@
 
 
 <h2>Funcionalidades</h2>
-<br>
    <h3>Generales:</h3>
-        <p style="margin-left:20px;">Login </p>
+        <p>Login </p>
         <p>Salir </p>
     <br>
     <h3>Propietario</h3>    
