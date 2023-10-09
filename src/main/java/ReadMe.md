@@ -13,6 +13,14 @@
     •Se realizara una interfaz gráfica para escritorio para los distintos usuarios.<br>
     </p>
 
+
+<h2>Stack usado</h2>
+    <ul>
+        <li>Java</li>
+        <li>Swing (interfaz gráfica)</li>
+    </ul>
+
+
 <h2> Patrones utilizados</h2>
     <ul>
         <li>Fachada</li>
@@ -25,29 +33,29 @@
         <li>Excepciones</li>
         <li>MVC (modelo-vista-controlador)</li>
     </ul>
-<h2>Stack usado</h2>
-    <ul>
-        <li>Java</li>
-        <li>Swing (interfaz gráfica)</li>
-    </ul>
+
 
 
 <h2>Funcionalidades</h2>
-    <ul>
-        <li>Login</li>    
-            <li>Solicitar recarga de saldo</li>
-            <li>Borrar notificaciones del panel</li>
-            <li>Emular transito</li>
-            <li>Aprobar recarga</li>
-            <li>Asignar Bonificaciones</li>
-            <li>Salir</li>
-</ul>
+<br>
+   <h3>Generales:</h3>
+        <p>Login </p>
+        <p>Salir </p>
+    
+    <h3>Propietario</h3>    
+            <p>Solicitar recarga de saldo</p>
+           <p> Borrar notificaciones del panel</p>
+    <h3>Administrador </h3>
+           <p> Emular transito</p>
+            <p>Aprobar recarga</p>
+           <p> Asignar Bonificaciones</p>
+
      
 
 
 
 <h2> Ejecución del proyecto</h2>
-    <p>Para poder testear el proyecto, deberá descargar los archivos del repositorio,<br>
+    <p>Para poder probar el proyecto, deberá descargar los archivos del repositorio,<br>
     tener instalado en el equipo Apache NetBeans IDE 17.<br>
     Ya con los archivos descargador y el IDE ejecutado, abra el proyecto dentro del IDE. <br>
     Seleccione la raíz del proyecto, clic derecho sobre lo seleccionado y a continuación puede ejecutarlo apretando la opción “RUN” 
@@ -57,3 +65,6 @@
 <img src="./img/runProject.PNG" >
 </div>
 
+    <p>
+
+    </p>
