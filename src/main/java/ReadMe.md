@@ -67,14 +67,12 @@
 <div id="run" align="center">
 <img src="./img/runProject.PNG" >
 </div>
-
+<br>
 
     <p>
     Luego de que se ejecute el programa, aparecerá una ventana para hacer Login al sistema.<br>
     Dentro de Login Sistema Peaje, se desplegará dos opciones para ingresar como usuario Propietario o Administrador.<br>
     </p>
-    <div id="login" align="center">
-    <img src="./img/loginProject.PNG">
-    </div>
+    
 
 
