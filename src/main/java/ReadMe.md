@@ -1,8 +1,4 @@
-<style>
-p{
-color:red;
-    }
-</style>
+
 <h1> Sistema de peajes </h1>
 
 <p> Proyecto obligatorio de finalización de la materia Diseño y Desarrollo de aplicaciones.<br>
@@ -77,3 +73,9 @@ color:red;
 
     </p>
 <div>
+
+<style>
+p{
+color:red;
+    }
+</style>
