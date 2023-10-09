@@ -48,10 +48,11 @@
     <li> Borrar notificaciones del panel</li>
 </ul>    
 <h3>Administrador </h3>
-           <p> Emular transito</p>
-           <p>Aprobar recarga</p>
-           <p> Asignar Bonificaciones</p>
-
+<ul>
+           <li> Emular transito</li>
+           <li>Aprobar recarga</li>
+           <li> Asignar Bonificaciones</li>
+</ul>
      
 
 
