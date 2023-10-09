@@ -38,9 +38,11 @@
 
 <h2>Funcionalidades</h2>
    <h3>Generales:</h3>
-        <p>Login </p>
-        <p>Salir </p>
-    <h3>Propietario</h3>    
+<ul>
+        <li>Login </li>
+        <li>Salir </li>
+</ul>    
+<h3>Propietario</h3>    
             <p>Solicitar recarga de saldo</p>
            <p> Borrar notificaciones del panel</p>
     <h3>Administrador </h3>
