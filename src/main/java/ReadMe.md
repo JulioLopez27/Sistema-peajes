@@ -42,10 +42,12 @@
         <li>Login </li>
         <li>Salir </li>
 </ul>    
-<h3>Propietario</h3>    
-            <p>Solicitar recarga de saldo</p>
-           <p> Borrar notificaciones del panel</p>
-    <h3>Administrador </h3>
+<h3>Propietario</h3> 
+<ul>   
+    <li>Solicitar recarga de saldo</li>
+    <li> Borrar notificaciones del panel</li>
+</ul>    
+<h3>Administrador </h3>
            <p> Emular transito</p>
            <p>Aprobar recarga</p>
            <p> Asignar Bonificaciones</p>
