@@ -40,11 +40,13 @@
    <h3>Generales:</h3>
         <p>Login </p>
         <p>Salir </p>
-    <br>
     <h3>Propietario</h3>    
             <p>Solicitar recarga de saldo</p>
            <p> Borrar notificaciones del panel</p>
-    
+    <h3>Administrador </h3>
+           <p> Emular transito</p>
+           <p>Aprobar recarga</p>
+           <p> Asignar Bonificaciones</p>
 
      
 
