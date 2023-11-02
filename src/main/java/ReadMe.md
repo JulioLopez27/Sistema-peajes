@@ -5,7 +5,7 @@
  Este proyecto se realizó en lenguaje Java (JDK 19) con utilización de Swing para el interfaz de usuario y se aplica varios patrones de diseño.
 </p>
 
-<h2> Descripción del proyecto</h2>
+<h2> Objetivo del proyecto</h2>
     <p>
     • Construir un prototipo para gestionar los distintos peajes que se carguen en el sistema.<br>
     • Panel de control para usuarios con rol Administrador y otro panel para usuarios con rol propietarios de vehículos.<br>
@@ -75,7 +75,15 @@
     <div id="login" align="center">
     <img src="./img/loginProject.PNG">
     </div>
-   
-    
+   <br>
 
+<h3>Ingresando un usuario válido</h3>
+<p>
+    Existe un juego de datos para probar en el sistema, independiente si desea ingresar como Administrador o Propietario.<br>
+    <strong>Dichos datos serian: Cedula: 123 | Contraseña: 123</strong>.<br>
+    En este caso, ingresaremos como Propietario.
+</p>
+    <div id="loginInput" align="center">
+    <img src="./img/login.PNG">
+    </div>
 
