@@ -89,8 +89,8 @@
 <br>
 
 <p>
-Luego de ingresar con el usuario 123(Juan Perez), nos aparecerá el panel de control para Propietarios, el cual nos dara informaciones<br>
-como: saldo disponible, vehiculos asociados al usuario con sus detalles, que bonificaciones tiene el usuario, los tránsitos hechos por los distintos peajes y con que vehículo,
+Luego de ingresar con el usuario 123(Juan Perez), nos aparecerá el panel de control para Propietarios, el cual nos dara 
+informaciones como: saldo disponible, vehiculos asociados al usuario con sus detalles, que bonificaciones tiene el usuario, los tránsitos hechos por los distintos peajes y con que vehículo,
 las recargas solicitadas y aprobadas con sus detalles y los mensajes como notificación de cada vez que pasa por un peaje.
 
 </p>
