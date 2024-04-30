@@ -31,10 +31,10 @@ El Sistema de Peajes es una aplicación prototipo de gestion de cobro de peajes,
 
 ## Patrones de Diseño
 
-- **[Principio Expert (Expert Principle)](#principio-expert)**
-- **[División Lógica (Logical Division)](#división-lógica)**
-- **[Fachada (Facade)](#fachada)**
-- **[Herencia y Polimorfismo (Inheritance and Polymorphism)](#herencia-y-polimorfismo)**
+- **[Principio Experto](#principio-experto)**
+- **[División Lógica](#división-lógica)**
+- **[Fachada](#fachada)**
+- **[Herencia y Polimorfismo](#herencia-y-polimorfismo)**
 - **[MVC](#mvc)**
 - **[Excepciones](#excepciones)**
 - **[Interfaces](#interfaces)**
@@ -55,7 +55,7 @@ Para cualquier pregunta, contáctame mediante el correo julioneo95@hotmail.com
 
 ## Anexo: Detalles de los Patrones de Diseño
 
-## Principio Expert (Expert Principle)
+## Principio Experto 
 ### Descripción:
 Este principio establece que una clase debe ser responsable de sus propias operaciones y datos relacionados. En otras palabras, una clase debe tener la información necesaria para realizar sus propias acciones, en lugar de depender de otras clases para obtener información o realizar acciones en su nombre. Esto promueve la cohesión y reduce el acoplamiento en el diseño de software.
 ### Aplicación en el Proyecto:
@@ -63,7 +63,7 @@ En el sistema de peajes, se aplica el principio de experto asegurándose de que 
 
 ---
 
-## División Lógica (Logical Division)
+## División Lógica 
 ### Descripción:
 Este principio implica dividir un sistema en componentes o módulos más pequeños y cohesivos, cada uno de los cuales se ocupa de una tarea específica o una parte del dominio del problema. La división lógica ayuda a simplificar el diseño, facilitar el mantenimiento y promover la reutilización del código.
 ### Aplicación en el Proyecto:
@@ -71,7 +71,7 @@ En el sistema de peajes, se divide lógicamente el sistema en componentes o mód
 
 ---
 
-## Fachada (Facade)
+## Fachada
 ### Descripción:
 El patrón de diseño de fachada proporciona una interfaz unificada y simplificada a un conjunto más grande de interfaces en un subsistema. Esto oculta la complejidad del subsistema y proporciona a los clientes una interfaz fácil de usar.
 ### Aplicación en el Proyecto:
@@ -79,7 +79,7 @@ En el sistema de peajes, se utiliza el patrón de fachada para proporcionar una 
 
 ---
 
-## Herencia y Polimorfismo (Inheritance and Polymorphism)
+## Herencia y Polimorfismo
 ### Descripción:
 La herencia permite que una clase herede atributos y comportamientos de otra clase (superclase), mientras que el polimorfismo permite que un objeto se comporte de múltiples formas dependiendo del contexto.
 ### Aplicación en el Proyecto:
