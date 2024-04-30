@@ -31,7 +31,7 @@ El Sistema de Peajes es una aplicación prototipo de gestion de cobro de peajes,
 
 ## Patrones de Diseño
 
-- **[Principio Experto (Expert Principle)](#Expert-Principle)**
+- **[Principio Experto (Expert Principle)](#Expert Principle)**
 - **[División Lógica (Logical Division)](#logical-division)**
 - **[Fachada (Facade)](#facade)**
 - **[Herencia y Polimorfismo (Inheritance and Polymorphism)](#inheritance-and-polymorphism)**
