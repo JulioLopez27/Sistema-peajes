@@ -95,7 +95,7 @@ En el sistema de peajes, se utiliza el patrón MVC para separar la lógica de ne
 
 ---
 
-## Excepciones (Exceptions)
+## Excepciones
 ### Descripción:
 Las excepciones son eventos inesperados o errores que ocurren durante la ejecución de un programa. El manejo de excepciones permite a los desarrolladores detectar y manejar estos errores de manera adecuada, mejorando la robustez y la confiabilidad del software.
 ### Aplicación en el Proyecto:
