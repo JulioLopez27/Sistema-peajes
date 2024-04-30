@@ -36,7 +36,7 @@ El Sistema de Peajes es una aplicación prototipo de gestion de cobro de peajes,
 - **[Fachada (Facade)](#fachada)**
 - **[Herencia y Polimorfismo (Inheritance and Polymorphism)](#herencia-y-polimorfismo)**
 - **[MVC](#mvc)**
-- **[Excepciones (Exceptions)](#excepciones)**
+- **[Excepciones](#excepciones)**
 - **[Interfaces](#interfaces)**
 - **[Observer](#observer)**
 
