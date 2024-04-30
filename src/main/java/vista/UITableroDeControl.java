@@ -15,6 +15,7 @@ import vista.celdas.CeldaVehiculo;
 import vista.celdas.CeldaRecargaSaldo;
 import java.awt.Color;
 import java.awt.Component;
+import java.awt.Dimension;
 import java.time.LocalDate;
 import java.util.Collections;
 import java.util.Comparator;
@@ -33,6 +34,7 @@ public class UITableroDeControl extends javax.swing.JDialog implements TableroCo
   
     public UITableroDeControl(UsuarioPropietario usuarioPropietario) {
         initComponents();
+        this.setMaximumSize(new Dimension(600,400));
         this.controlador = new TableroControlControlador(this, usuarioPropietario);
         jListVehiculos.setCellRenderer(new VehiculoDetalleRenderer());
         jListTransitos.setCellRenderer(new TransitoDetalleRenderer());
@@ -105,6 +107,7 @@ public class UITableroDeControl extends javax.swing.JDialog implements TableroCo
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Tablero de control de propietario");
         setFocusTraversalPolicyProvider(true);
+        setSize(new java.awt.Dimension(1366, 768));
 
         jButtonRecargar.setFont(new java.awt.Font("Arial", 1, 12)); // NOI18N
         jButtonRecargar.setText("Rercargar");
