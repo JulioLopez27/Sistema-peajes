@@ -31,12 +31,12 @@ El Sistema de Peajes es una aplicación prototipo de gestion de cobro de peajes,
 
 ## Patrones de Diseño
 
-- **[Principio Experto (Expert Principle)](#principio-experto-expert-principle)**
-- **[División Lógica (Logical Division)](#logical-division)**
-- **[Fachada (Facade)](#facade)**
-- **[Herencia y Polimorfismo (Inheritance and Polymorphism)](#inheritance-and-polymorphism)**
+- **[Principio Expert (Expert Principle)](#principio-expert-expert-principle)**
+- **[División Lógica (Logical Division)](#división-lógica-logical-division)**
+- **[Fachada (Facade)](#fachada-facade)**
+- **[Herencia y Polimorfismo (Inheritance and Polymorphism)](#herencia-y-polimorfismo-inheritance-and-polymorphism)**
 - **[MVC](#mvc)**
-- **[Excepciones (Exceptions)](#exceptions)**
+- **[Excepciones (Exceptions)](#excepciones)**
 - **[Interfaces](#interfaces)**
 - **[Observer](#observer)**
 
@@ -55,7 +55,7 @@ Para cualquier pregunta, contáctame mediante el correo julioneo95@hotmail.com
 
 ## Anexo: Detalles de los Patrones de Diseño
 
-## Principio Experto (Expert Principle)
+## Principio Expert (Expert Principle)
 ### Descripción:
 Este principio establece que una clase debe ser responsable de sus propias operaciones y datos relacionados. En otras palabras, una clase debe tener la información necesaria para realizar sus propias acciones, en lugar de depender de otras clases para obtener información o realizar acciones en su nombre. Esto promueve la cohesión y reduce el acoplamiento en el diseño de software.
 ### Aplicación en el Proyecto:
