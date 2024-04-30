@@ -31,10 +31,10 @@ El Sistema de Peajes es una aplicación prototipo de gestion de cobro de peajes,
 
 ## Patrones de Diseño
 
-- **[Principio Expert (Expert Principle)](#principio-expert-expert-principle)**
-- **[División Lógica (Logical Division)](#división-lógica-logical-division)**
-- **[Fachada (Facade)](#fachada-facade)**
-- **[Herencia y Polimorfismo (Inheritance and Polymorphism)](#herencia-y-polimorfismo-inheritance-and-polymorphism)**
+- **[Principio Expert (Expert Principle)](#principio-expert)**
+- **[División Lógica (Logical Division)](#división-lógica)**
+- **[Fachada (Facade)](#fachada)**
+- **[Herencia y Polimorfismo (Inheritance and Polymorphism)](#herencia-y-polimorfismo)**
 - **[MVC](#mvc)**
 - **[Excepciones (Exceptions)](#excepciones)**
 - **[Interfaces](#interfaces)**
